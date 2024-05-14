@@ -1,0 +1,131 @@
+body{
+    /*background: -webkit-linear-gradient(left, #3931af, #00c6ff);*/
+    background-image: url("../img/nasa.jpg");
+}
+.emp-profile{
+    padding: 3%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 0.5rem;
+    background: #fff;
+    max-width: 1300px;
+
+}
+.profile-img{
+    text-align: center;
+}
+
+.profile-head{
+    text-align: center;
+}
+
+.profile-img img{
+    width: 95%;
+    /* height: 100%;*/
+}
+.profile-rating{
+    font-size: 12px;
+    color: #818182;
+    margin-top: 5%;
+    text-align: center;
+}
+.profile-rating span{
+    color: #495057;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content/Box */
+  .modal-content {
+    background-color: #fefefe;
+    font-size: 2rem;
+  }
+  
+  /* Close Button */
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+
+  input[type=radio] {
+    padding-left:5px;
+    padding-right:5px;
+    border-radius:15px;
+
+    border: double 2px #00F;
+
+    background-color:#0b0095;
+    color:#FFF;
+    white-space: nowrap;
+    overflow:hidden;
+
+    width:20px;
+    height:20px;
+}
+
+input[type=radio]:checked {
+    background-color:#000;
+    border-left-color:#06F;
+    border-right-color:#06F;
+}
+
+input[type=radio]:hover {
+    box-shadow:0px 0px 10px #1300ff;
+}
+
+
+.good {
+    border: double 3px green;
+    background-color:lightgreen;
+    border-radius: 5px;
+}
+
+.bad {
+    border: double 3px red;
+    background-color:lightpink;
+    border-radius: 5px;
+}
+
+.logout-button {
+    position: relative;
+    top: 10px;
+    right: 10px;
+  }
+  
+  .logout-button a {
+    display: inline-block;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .logout-button a i {
+    margin-right: 5px;
+  }

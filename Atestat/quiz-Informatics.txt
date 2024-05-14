@@ -1,0 +1,15 @@
+What do we call the process by which a program is translated from source code to executable code? | Compilation | Interpretation | Debugging | Linking | Compilation
+What term do we use to describe a method by which it is ensured that data entered into a program is correct? | Validation | Verification | Testing | Debugging | Validation
+What do we call the graphical interface through which users can interact with a program? | GUI (Graphical User Interface) | CLI (Command Line Interface) | API (Application Programming Interface) | IDE (Integrated Development Environment) | GUI (Graphical User Interface)
+What do we call a programming technique where a problem is divided into smaller subproblems, which are then solved recursively? | Divide and Conquer | Euclid's Algorithm | Merge Sort | Dynamic Programming | Divide and Conquer
+What term describes the state in which a program crashes or does not respond to external commands? | Crash | Freeze | Buffer Overflow | Deadlock | Freeze
+What do we call a data structure that stores elements in a specific order, allowing fast access to individual items? | Vector | List | Queue | Stack | List
+What term describes the process by which a program is improved by adding new functions or modifying existing ones? | Development | Maintenance | Debugging | Optimization | Development
+What do we call a method of encryption in which the same key is used for both encrypting and decrypting data? | Symmetric encryption | Asymmetric encryption | Block Cipher | Stream Cipher | Symmetric encryption
+What do we call a program that can be executed by the user, but can also be modified and improved by other developers? | Open Source Software | Proprietary Software | Freeware | Shareware | Open Source Software
+What term describes the process by which a program checks if a request is valid and has permission to access certain data? | Authentication | Authorization | Validation | Testing | Authorization
+What do we call a programming method in which data and the functions that process them are encapsulated together in a single unit called an object? | Object-Oriented Programming | Structured Programming | Procedural Programming | Modular Programming | Object-Oriented Programming
+What term describes a copy of data stored on an external device to protect it in case of loss or corruption? | Backup | Cache | Index | Snapshot | Backup
+What term describes malicious code that can be included in a program and can be activated to cause harm to users or the system? | Virus | Malware | Spyware | Adware | Malware
+What do we call a set of rules and conventions for writing source code, which improves the clarity and ease of maintenance of the program? | Coding conventions | Design patterns | Programming paradigms | Optimization algorithms | Coding conventions
+What term describes malicious code that can be included in a program and can be activated to cause harm to users or the system? | Virus | Malware | Spyware | Adware | Malwar
